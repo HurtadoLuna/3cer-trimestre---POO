@@ -49,7 +49,15 @@ nacionalidad= input("ingrese su nacionalidad: ")
 usu= Votacion (nombre_completo, edad, nacionalidad)
 usu.mostrar_info()
 
-
+# 7.1 ¿que clases identificas en el problema?
+#     R// se identifica la clase 'Votacion'                                        
+# 
+# 7.2 ¿que atributos y metodos tendria la clase?
+#    R// Atributos: nombre_completo, edad, nacionalidad
+#        Métodos: __init__, mostrar_info
+# 
+# 7.3 ¿que relaciones existen entre ellas?   
+#    R// existe una relacion entre Votacion y usu es un objeto que utiliza los atributos y metodos definidos en Votacion                                  
    
 
 
