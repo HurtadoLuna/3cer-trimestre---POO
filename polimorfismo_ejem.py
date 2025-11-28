@@ -15,7 +15,7 @@ class Gato (Animal):
 
 #funcion que muestra el polimorfismo
 def hacer_hablar(animal):
-    animal.hablar() 
+    animal.hablar()   
 #crear el objeto
 perro = Perro()
 gato = Gato()
